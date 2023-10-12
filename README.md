@@ -1,2 +1,4 @@
-# PrepCourse-Henry
-Este es el repositorio del modulo2 del prepcourse de Henry
+Salvador Borrego
+
+Este proyecto es una pruba de como crear un repositorio y clonarlo
+.dasdasdsd
